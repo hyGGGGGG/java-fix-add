@@ -19,7 +19,18 @@
   **注意：我们只允许您修改以下文件，任何对其他文件的修改都会被拒绝：**
 
 - `src/main/java/com/bytelegend/Challenge.java`
-</details>
+
+  > ### 有趣的小知识
+  >
+  > 在1947年9月9日，葛丽丝·霍普（Grace Hopper）发现了第一个电脑上的bug。
+  > 有一次Mark II突然宕机，整个团队都搞不清楚为什么电脑不能正常运作了。经过大家的深度挖掘，发现原来是一只飞蛾意外飞入了一台电脑内部而引起了故障（如图所示）。
+  > 这个团队很快排调试误，并在日志本中记录下了这一事件。也因此，人们逐渐开始用“Bug”（原意为“虫子”）来称呼计算机中的隐错。
+  > 现在在华盛顿的美国国家历史博物馆中还可以看到这个遗稿。
+  > ——[维基百科](https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BA%8F%E9%94%99%E8%AF%AF)
+  >
+  > ![bug](https://raw.githubusercontent.com/ByteLegendQuest/java-fix-add/main/first-bug.jpg)
+
+    </details>
 
 # Kill First Bug Evil
 
@@ -40,3 +51,12 @@ the way to kill it is creating a pull request to fix it.
 Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/bytelegend/Challenge.java`
+
+> ### Fun Fact
+>
+> The term "bug" was used in an account by computer pioneer Grace Hopper, who publicized the cause of a malfunction in an early electromechanical computer.
+> In 1947, operators traced an error in the Mark II to a moth trapped in a relay, coining the term bug. This bug was carefully removed and taped to the log book.
+> Stemming from the first bug, today we call errors or glitches in a program a bug.
+> ——[Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+>
+> ![bug](https://raw.githubusercontent.com/ByteLegendQuest/java-fix-add/main/first-bug.jpg)
